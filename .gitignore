@@ -1,0 +1,14 @@
+# Kết quả scan (không commit lên GitHub)
+loot/
+*.log
+*.nmap
+*.gnmap
+*.xml
+!README.md
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

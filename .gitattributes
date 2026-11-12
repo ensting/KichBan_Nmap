@@ -1,0 +1,4 @@
+# Luôn dùng LF để script chạy được trên Kali/Linux
+* text=auto eol=lf
+*.sh text eol=lf
+*.md text eol=lf
